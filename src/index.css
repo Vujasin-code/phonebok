@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(to right, rgba(255, 0, 0, 0.354), rgba(255, 166, 0, 0.354)); 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
