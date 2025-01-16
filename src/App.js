@@ -31,15 +31,15 @@ function App() {
     <div className="App">
       <nav>
         <button onClick={() => setView("add")}>
-          <img src="/contact_new_icon_180793.png" alt="Add" />
+          <img src="contact_new_icon_180793.png" alt="" />
           Add
         </button>
         <button onClick={() => setView("list")}>
-          <img src="/contactlist_theuser_802.png" alt="ContactList" />
+          <img src="contactlist_theuser_802.png" alt="" />
           Contact list
         </button>
         <button onClick={() => setView("delete")}>
-          <img src="/window_deleted_10155.png" alt="delete" />
+          <img src="window_deleted_10155.png" alt="" />
           Delete
         </button>
       </nav>
